@@ -1,0 +1,11 @@
+E:\study\4й семестр\ООП\Lab 1 Zadanie 8\bin\Debug\Lab 1 Zadanie 8.exe.config
+E:\study\4й семестр\ООП\Lab 1 Zadanie 8\bin\Debug\Lab 1 Zadanie 8.exe
+E:\study\4й семестр\ООП\Lab 1 Zadanie 8\bin\Debug\Lab 1 Zadanie 8.pdb
+E:\study\4й семестр\ООП\Lab 1 Zadanie 8\obj\Debug\Lab 1 Zadanie 8.csprojAssemblyReference.cache
+E:\study\4й семестр\ООП\Lab 1 Zadanie 8\obj\Debug\Lab_1_Zadanie_8.add_form.resources
+E:\study\4й семестр\ООП\Lab 1 Zadanie 8\obj\Debug\Lab_1_Zadanie_8.Form1.resources
+E:\study\4й семестр\ООП\Lab 1 Zadanie 8\obj\Debug\Lab_1_Zadanie_8.Properties.Resources.resources
+E:\study\4й семестр\ООП\Lab 1 Zadanie 8\obj\Debug\Lab 1 Zadanie 8.csproj.GenerateResource.cache
+E:\study\4й семестр\ООП\Lab 1 Zadanie 8\obj\Debug\Lab 1 Zadanie 8.csproj.CoreCompileInputs.cache
+E:\study\4й семестр\ООП\Lab 1 Zadanie 8\obj\Debug\Lab 1 Zadanie 8.exe
+E:\study\4й семестр\ООП\Lab 1 Zadanie 8\obj\Debug\Lab 1 Zadanie 8.pdb
